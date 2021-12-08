@@ -15,3 +15,7 @@ Package: `in.xnnyygn.concurrent.dependency`
 Blog(Japanese): [https://tech.unifa-e.com/entry/2021/11/02/100646](https://tech.unifa-e.com/entry/2021/11/02/100646)
 
 ![dependency](https://github.com/xnnyygn/case-study/blob/main/src/main/resources/dependency.png?raw=true)
+
+## Transactional Memory (TL2)
+
+Package: `in.xnnyygn.concurrent.transaction`
