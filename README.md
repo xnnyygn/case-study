@@ -48,3 +48,8 @@ You can find more information in the code itself.
 ## Transactional Memory (TL2)
 
 Package: `in.xnnyygn.concurrent.transaction`
+
+## Fuzzy Search ##
+
+Basic version of Levenshtein Automaton. The idea is to create a statemachine for the input source then try to apply 
+the prebuilt trie to the statemachine and to find words within a specified levenshtein edit distance.
